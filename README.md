@@ -1,2 +1,2 @@
 # hello-world
-a place where I store ideas, resources, or even share and discuss things with others.
+Hello,this is my first time to use the Github,so interesting.
